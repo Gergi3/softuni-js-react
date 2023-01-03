@@ -1,3 +1,21 @@
 [submodule "3-components"]
 	path = 3-components
 	url = git@github.com:Gergi3/3-components.git
+[submodule "4-components-deep-dive"]
+	path = 4-components-deep-dive
+	url = git@github.com:Gergi3/4-components-deep-dive.git
+[submodule "5-components-workshop-improved"]
+	path = 5-components-workshop-improved
+	url = git@github.com:Gergi3/5-components-workshop-improved.git
+[submodule "6-routing"]
+	path = 6-routing
+	url = git@github.com:Gergi3/6-routing.git
+[submodule "7-routing-workshop"]
+	path = 7-routing-workshop
+	url = git@github.com:Gergi3/7-routing-workshop.git
+[submodule "8-react-hooks"]
+	path = 8-react-hooks
+	url = git@github.com:Gergi3/8-react-hooks.git
+[submodule "react-compontents-workshop"]
+	path = react-compontents-workshop
+	url = git@github.com:Gergi3/react-compontents-workshop.git

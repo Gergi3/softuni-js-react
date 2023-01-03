@@ -1,0 +1,3 @@
+[submodule "3-components"]
+	path = 3-components
+	url = git@github.com:Gergi3/3-components.git

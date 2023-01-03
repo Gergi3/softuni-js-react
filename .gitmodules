@@ -19,3 +19,6 @@
 [submodule "react-compontents-workshop"]
 	path = react-compontents-workshop
 	url = git@github.com:Gergi3/react-compontents-workshop.git
+[submodule "js-react-softuni-project-final"]
+	path = js-react-softuni-project-final
+	url = git@github.com:Gergi3/js-react-softuni-project-final.git
